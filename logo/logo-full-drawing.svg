@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="48"
+   viewBox="0 0 33.866667 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo-full-drawing.svg"
+   inkscape:export-filename="/media/water/files/Projects/a1-lab/general-resources/logo/output/256x256.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.1966378"
+     inkscape:cx="20.759595"
+     inkscape:cy="31.764662"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="1920"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.3)">
+    <rect
+       style="opacity:1;fill:#fff000;fill-opacity:0;stroke-width:0.26458332"
+       id="rect833"
+       width="13.271289"
+       height="13.933277"
+       x="-16.959509"
+       y="285.1788" />
+    <g
+       id="g832"
+       transform="translate(0.11335694)">
+      <text
+         id="text12"
+         y="294.1543"
+         x="7.8931594"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e87a00;fill-opacity:1;stroke:none;stroke-width:0.24002622"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e87a00;fill-opacity:1;stroke-width:0.24002622"
+           y="294.1543"
+           x="7.8931594"
+           id="tspan10"
+           sodipodi:role="line">A1</tspan></text>
+      <g
+         transform="translate(0.22290305,-1.3923645e-5)"
+         id="g824">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#001f3d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="15.659884"
+           y="293.444"
+           id="text817"><tspan
+             sodipodi:role="line"
+             id="tspan815"
+             x="15.659884"
+             y="293.444"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#001f3d;fill-opacity:1;stroke-width:0.26458332">Lab</tspan></text>
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#001f3d;stroke-width:0.3153092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373"
+           id="rect819"
+           width="16.212032"
+           height="8.1528721"
+           x="14.674676"
+           y="286.57358" />
+      </g>
+    </g>
+  </g>
+</svg>

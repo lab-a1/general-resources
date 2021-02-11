@@ -23,14 +23,14 @@
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.1966378"
-     inkscape:cx="20.759595"
-     inkscape:cy="31.764662"
+     inkscape:zoom="8.3932756"
+     inkscape:cx="58.335762"
+     inkscape:cy="21.890382"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,39 +65,37 @@
        x="-16.959509"
        y="285.1788" />
     <g
-       id="g832"
-       transform="translate(0.11335694)">
+       id="g840">
       <text
          id="text12"
          y="294.1543"
-         x="7.8931594"
+         x="8.0065165"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e87a00;fill-opacity:1;stroke:none;stroke-width:0.24002622"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e87a00;fill-opacity:1;stroke-width:0.24002622"
            y="294.1543"
-           x="7.8931594"
+           x="8.0065165"
            id="tspan10"
            sodipodi:role="line">A1</tspan></text>
       <g
-         transform="translate(0.22290305,-1.3923645e-5)"
-         id="g824">
+         id="g832">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#001f3d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="15.659884"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+           x="15.996144"
            y="293.444"
            id="text817"><tspan
              sodipodi:role="line"
              id="tspan815"
-             x="15.659884"
+             x="15.996144"
              y="293.444"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#001f3d;fill-opacity:1;stroke-width:0.26458332">Lab</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;">Lab</tspan></text>
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#001f3d;stroke-width:0.3153092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373"
+           style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.3153092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect819"
            width="16.212032"
            height="8.1528721"
-           x="14.674676"
+           x="15.010936"
            y="286.57358" />
       </g>
     </g>

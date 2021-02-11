@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo-full-drawing.svg"
-   inkscape:export-filename="/media/water/files/Projects/a1-lab/general-resources/logo/output/full-logo.png"
-   inkscape:export-xdpi="1500"
-   inkscape:export-ydpi="1500">
+   inkscape:export-filename="/media/water/files/Projects/a1-lab/general-resources/logo/output/full-logo-184x69.png"
+   inkscape:export-xdpi="138"
+   inkscape:export-ydpi="138">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.3932756"
-     inkscape:cx="58.335762"
+     inkscape:cx="36.711308"
      inkscape:cy="21.890382"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,40 +64,34 @@
        height="13.933277"
        x="-16.959509"
        y="285.1788" />
-    <g
-       id="g840">
-      <text
-         id="text12"
-         y="294.1543"
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e87a00;fill-opacity:1;stroke:none;stroke-width:0.24002622"
+       x="8.0065165"
+       y="294.1543"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
          x="8.0065165"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e87a00;fill-opacity:1;stroke:none;stroke-width:0.24002622"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e87a00;fill-opacity:1;stroke-width:0.24002622"
-           y="294.1543"
-           x="8.0065165"
-           id="tspan10"
-           sodipodi:role="line">A1</tspan></text>
-      <g
-         id="g832">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-           x="15.996144"
-           y="293.444"
-           id="text817"><tspan
-             sodipodi:role="line"
-             id="tspan815"
-             x="15.996144"
-             y="293.444"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;">Lab</tspan></text>
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.3153092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect819"
-           width="16.212032"
-           height="8.1528721"
-           x="15.010936"
-           y="286.57358" />
-      </g>
-    </g>
+         y="294.1543"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e87a00;fill-opacity:1;stroke-width:0.24002622">A1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="15.996144"
+       y="293.444"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="15.996144"
+         y="293.444"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111126px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Lab</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.3153092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect819"
+       width="16.212032"
+       height="8.1528721"
+       x="15.010936"
+       y="286.57358" />
   </g>
 </svg>

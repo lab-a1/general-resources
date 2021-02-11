@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo-icon-drawing.svg"
-   inkscape:export-filename="/media/water/files/Projects/a1-lab/general-resources/logo/output/256x256.png"
-   inkscape:export-xdpi="512"
-   inkscape:export-ydpi="512">
+   inkscape:export-filename="/media/water/files/Projects/a1-lab/general-resources/logo/output/favicon.png"
+   inkscape:export-xdpi="84"
+   inkscape:export-ydpi="84">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,11 +26,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3932755"
-     inkscape:cx="26.519218"
-     inkscape:cy="17.918896"
+     inkscape:zoom="5.934942"
+     inkscape:cx="-4.255361"
+     inkscape:cy="19.905475"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,8 @@
      inkscape:window-height="1023"
      inkscape:window-x="1920"
      inkscape:window-y="28"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -48,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +63,10 @@
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.60084724px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e87a00;fill-opacity:1;stroke:none;stroke-width:0.24002622"
        x="6.421999"
        y="294.1543"
-       id="text12"><tspan
+       id="text12"
+       inkscape:export-filename="/media/water/files/Projects/a1-lab/general-resources/logo/output/favicon.png"
+       inkscape:export-xdpi="69.93"
+       inkscape:export-ydpi="69.93"><tspan
          sodipodi:role="line"
          id="tspan10"
          x="6.421999"
